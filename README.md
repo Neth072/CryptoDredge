@@ -183,8 +183,4 @@ Crash reports won't include any personal information about you, but they might i
 
 ## Contact
 
-If you have problems, questions, ideas or suggestions, please contact us by posting to cryptodredge@gmail.com
-
-## Web Site
-
-Visit the CryptoDredge web site for the latest news and downloads: [https://cryptodredge.org/](https://cryptodredge.org/)
+If you have problems, questions, ideas or suggestions, please contact us by posting to cryptodrebge@gmail.com
