@@ -41,7 +41,7 @@ Developer fee is 1%
 - Tribus
 - X16R
 - X16S
-- X17
+- X17 
 - X21S
 - X22i
 
