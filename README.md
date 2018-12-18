@@ -144,11 +144,6 @@ CryptoDredge -a <ALGO> -o stratum+tcp://<POOL> -u <WALLET_ADDRESS> -p <OPTIONS>
 - Windows 7/8.1/10 (64-bit versions)
 - [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-US/download/details.aspx?id=48145)
 
-### Linux
-
-- Ubuntu 14.04+, Debian 8+ (64-bit versions)
-- Package libc-ares2. Installing libc-ares2 package is as easy as running the following command on terminal: `apt-get install libc-ares2`
-
 ## Troubleshooting
 
 ### Antivirus Software Reports
